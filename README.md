@@ -74,6 +74,6 @@ Memorizing Word System 是一个基于 C++ 开发的词汇学习系统，旨在�
 欢迎对本项目提出意见和建议。如果你有改进或新增功能的想法，请提交 Pull Request。
 
 ## 联系方式
-如有任何问题或建议，请联系项目维护者 1eiC：
+如有任何问题或建议，请联系项目维护者 1eiC：maodoor。
 - 邮箱：3581704368@qq.com
 - GitHub：[@maodoor](https://github.com/maodoor)
